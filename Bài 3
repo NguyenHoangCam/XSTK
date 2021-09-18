@@ -1,0 +1,19 @@
+print ("Nhập vào một đại tố:")
+n = int (input ())
+flag = True
+nếu (n <2):
+    cờ = Sai
+elif (n == 2):
+    flag = True
+elif (n == 2):
+    flag = True
+elif (n% 2 --0):
+    cờ = Sai
+khác:
+    cho tôi trong phạm vi (3, n, 2):
+        nếu (n% i == 0):
+            cờ = Sai
+nếu cờ == Đúng:
+    print (n, "is a integer")
+khác:
+    print (n, "is not a integer")
